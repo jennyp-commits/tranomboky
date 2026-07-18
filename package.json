@@ -1,0 +1,20 @@
+{
+  "name": "trano-boky",
+  "version": "1.0.0",
+  "description": "Trano Boky - Bibliotheque numerique FJKM Masobe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Filazantsara Miako",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^8.4.2",
+    "@capacitor/cli": "^8.4.2",
+    "@capacitor/core": "^8.4.2"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

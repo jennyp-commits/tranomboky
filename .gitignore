@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log*
+*.apk
+*.aab
+*.keystore
+*.jks
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
